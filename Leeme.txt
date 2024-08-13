@@ -1,0 +1,2 @@
+Favor leer los cambios  
+pip freeze mayorque requirements.txt  
